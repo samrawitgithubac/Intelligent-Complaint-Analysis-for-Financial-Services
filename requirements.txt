@@ -6,3 +6,11 @@ jupyter>=1.0.0
 notebook>=6.5.0
 ipykernel>=6.25.0
 
+# Task 2: Chunking, Embedding, and Vector Store
+sentence-transformers>=2.2.0
+langchain>=0.1.0
+langchain-community>=0.0.20
+chromadb>=0.4.0
+faiss-cpu>=1.7.4
+tqdm>=4.66.0
+
